@@ -1,2 +1,2 @@
 # Census-Data-exercise-Excel
-Excel exercise utilizing Index/Match functions to evaluate census data in the US 2010-2016.  Evaluated publicly available data for an exercise.
+What are the trends in population of US States between 2010 and 2016?  Using IF, VLOOKUP, OFFSET, INDEX/MATCH and AVERAGE functions in Excel, I analyzed publicly available dataset of US Census Data to identify growth and popluation trends of MI, AZ, CA, TX, FL, and NY.  During this analysis, I identified that MI population increased by less than 1% between 2011 and 2015, while AZ increased by 5%.
